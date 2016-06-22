@@ -32,5 +32,5 @@ Práctica sobre html y css con responsive design dfda
     ![](./sources/inicio_mobile.png)
 
 ##Mi url
-[web del marca](www.marca.es)
-<www.google.com>
+[web del marca](http://www.marca.es)
+    
